@@ -1,0 +1,96 @@
+/* Write some CSS below */
+body {
+    lineaire-simple {
+        background: linear-gradient(rgb(150, 6, 6), rgb(75, 1, 1));
+      }
+    background-image: url(images/background.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #333333 ;
+    font-size: 16px;
+    font-family: "Lora", serif;
+    text-align: center;
+  }
+  
+  h1, h2 {
+    font-family: "Comic Sans", serif;
+  }
+  
+  h1 {
+    font-size: 32px;
+    font-weight: 900;
+  }
+  
+  h2 {
+    font-size: 24px;
+    color: #333333;
+    font-weight: 700;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  div {
+    background-color: white;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.78);
+    padding: 48px;
+    margin: 40px auto;
+    border-radius: 5px;
+    width: 600px;
+  }
+  
+  img {
+    border-radius: 50%;
+    height: 150px;
+    object-fit: cover;
+  }
+  
+  a {
+    color:rgb(0, 0, 0);
+    background-color: #ffffff;
+    border-radius: 7px;
+    padding: 15px 25px;
+  }
+  
+  a:hover {
+    background-color: #000000;
+  }
+  ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin: 0 auto;
+    display: inline-block;
+    text-align: left;
+  }
+ 
+    li {
+    padding: 5px 0;
+  }
+ 
+ 
+    .boutonlogo {
+    display: inline-block;
+    background-color: rgba(170, 231, 167, 0.7);
+    border: none;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+ 
+    .boutonlogo img {
+    width: auto;
+    height: 60px;
+    border-radius: 0;
+  }
+ 
+  
+    .boutonlogo:hover {
+        background-color: rgb(63, 63, 63);
+}
+ 
+    .imagenadal  {
+    border-radius: 0;
+    height: 150px;
+  }
+ 
